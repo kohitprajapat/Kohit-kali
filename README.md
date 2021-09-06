@@ -2,7 +2,7 @@
 - 👀 I’m interested in ... Cybersecurity
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ... Instagram
-- 📫 How to reach me ... Instagram- @kohitprajapat
+- 📫 How to reach me ... Telegram @kakaonbeat
 
 <!---
 Kohit-kali/Kohit-kali is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
