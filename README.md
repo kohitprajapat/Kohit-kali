@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Kohit-kali
+- 👋 Hi, I’m @Kohit
 - 👀 I’m interested in ... Cybersecurity
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ... Instagram
