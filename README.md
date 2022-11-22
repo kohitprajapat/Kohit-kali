@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Kohit
 - 👀 I’m interested in ... Cybersecurity
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning BURP SUITE
 - 💞️ I’m looking to collaborate on ... Instagram
 - 📫 How to reach me ... Telegram t.me/papaonbeat
 
